@@ -1,16 +1,14 @@
-# React + Vite
+# CodeAlpha_ImageGallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart, folder-based Image Gallery application built with React and CSS during my Frontend Development Internship at CodeAlpha.
 
-Currently, two official plugins are available:
+## Features
+- **Smart Folder Management:** Categorized into Camera, Screenshots, WhatsApp Images, and Downloads.
+- **Dynamic Lightbox:** Full-screen viewing with previous/next navigation and escape-key handling.
+- **Modern UI:** Minimalist, high-end dark aesthetic tailored for 'Fábrica de Sentidos'.
+- **Fully Responsive:** Optimized for both mobile viewports and desktop screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- React.js (Hooks, Functional Components)
+- Vanilla CSS3
+- Vite
